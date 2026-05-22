@@ -16,3 +16,5 @@ Assignment 6 (A6): Training dataset to make predictions with k nearest neighbors
 Assignment 7 (A7): Practice with basic manipulation of strings in Python with filter function, len, map, and more.
 
 Assignment 8 (A8): Used joblib and for loops to print square of all positive prime numbers, with the range of the squared values being between 2 and 100,000, exclusive. Used mpi4py to communicate the rank and size of the process.
+
+Assignment 9 (A9): Used Bloomfilter to check for elements in a created dataset.
