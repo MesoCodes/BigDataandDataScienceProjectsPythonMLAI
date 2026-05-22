@@ -12,3 +12,5 @@ Assignment 4 (A4): Used numpy and matplotlib to do polynomial regression.
 Assignment 5 (A5P1, A5P2): Used matplotlib to plot ROC curve and pytorch to train with MNIST dataset.
 
 Assignment 6 (A6): Training dataset to make predictions with k nearest neighbors and numpy.
+
+Assignment 7 (A7): Practice with basic manipulation of strings in Python with filter function, len, map, and more.
